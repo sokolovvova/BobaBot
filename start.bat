@@ -1,0 +1,1 @@
+D:\projects\BobaBot\venv\Scripts\python.exe twitch_interaction.py
